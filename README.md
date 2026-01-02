@@ -40,8 +40,13 @@ You can view the live website here:
 
 ## 📂 Project Structure
 
+SwiftCargo-Landing-Page/
+│
+├── assets/ # Images and icons used in the landing page
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+└── README.md # Project documentation
 
----
 
 ## 🚀 How to Use
 
