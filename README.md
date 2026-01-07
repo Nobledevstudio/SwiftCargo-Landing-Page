@@ -1,22 +1,22 @@
-# SwiftCargo Landing Page
 
-Welcome to the **SwiftCargo Landing Page** – a modern, responsive, and professional landing page for a logistics and transportation company. This project is built with **HTML**, **CSS**, and **JavaScript**.
+# 🚛 SwiftCargo — Landing Page
 
----
-
-## 🌐 Live Demo
-
-You can view the live website here:  
-[https://nobledevstudio.github.io/SwiftCargo-Landing-Page/](https://nobledevstudio.github.io/SwiftCargo-Landing-Page/)
+Welcome to the **SwiftCargo Landing Page** – a modern, responsive, and professional landing page for a logistics and transportation company.  
+Built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📌 Features
+## 🔗 Live Demo
+View the live website here:  
+[SwiftCargo Landing Page](https://nobledevstudio.github.io/SwiftCargo-Landing-Page/)
 
-- Fully responsive design for desktop, tablet, and mobile
+---
+
+## ✨ Features
+- Fully responsive design (desktop, tablet, mobile)
 - Hero section with call-to-action buttons
-- About section with company information
-- Services section showcasing different transport methods:
+- About section with company info
+- Services section showcasing transport methods:
   - Air Transport
   - Cargo Transport
   - Truck Transport
@@ -25,47 +25,47 @@ You can view the live website here:
 - Client testimonials section
 - Footer with contact info, social links, and newsletter subscription
 - Smooth animations and hover effects
-- Easy to customize images, text, and colors
+- Easy customization of images, text, and colors
 
 ---
 
 ## 🛠️ Technologies Used
-
-- **HTML5** – structure of the landing page  
-- **CSS3** – styling with responsive design and flexbox/grid layouts  
-- **JavaScript** – interactive features (optional if you have any sliders or tracking logic)  
-- **Git & GitHub Pages** – version control and deployment  
+- **HTML5** – page structure
+- **CSS3** – styling, responsive design, flexbox/grid layouts
+- **JavaScript** – interactive features (sliders, tracking input, etc.)
+- **Git & GitHub Pages** – version control and deployment
 
 ---
 
-## 📂 Project Structure
-
+## 📁 Project Structure
+```
 SwiftCargo-Landing-Page/
-│
-├── assets/ # Images and icons used in the landing page
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-└── README.md # Project documentation
+├── assets/           # Images and icons
+├── index.html        # Main HTML file
+├── style.css         # CSS stylesheet
+└── README.md         # Project documentation
+```
 
+---
 
-## 🚀 How to Use
-
+## ⚙️ How to Use
 1. Clone the repository:
-
+```bash
 git clone https://github.com/Nobledevstudio/SwiftCargo-Landing-Page.git
-
-2.  Open index.html in your browser to view the landing page.
-
+```
+2. Open `index.html` in your browser.
 3. Customize content:
-
- - Replace images in the assets/ folder
-
-- Update text in index.html
-
-- Adjust styling in style.css
-
+   - Replace images in `assets/`
+   - Update text in `index.html`
+   - Adjust styles in `style.css`
 4. Push changes to GitHub to update your live page via GitHub Pages.
 
-## ⚡ License
+---
 
+## 📄 License
 This project is open-source and free to use for personal or commercial purposes.
+
+---
+
+### 👨‍💻 Author
+**NobleDevStudio**
